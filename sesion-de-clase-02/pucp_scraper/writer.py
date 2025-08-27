@@ -1,6 +1,6 @@
 import os
 import csv
-from amazon_scraper.config import OUTPUT_FILE_NAME
+from pucp_scraper.config import OUTPUT_FILE_NAME
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "data")
