@@ -1,0 +1,707 @@
+{
+    "data": [
+        {
+            "edit_history_tweet_ids": [
+                "1962984178833928424"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "front_ukrainian",
+                        "id": "1581923931409289217"
+                    }
+                ]
+            },
+            "id": "1962984178833928424",
+            "created_at": "2025-09-02T21:01:13.000Z",
+            "text": "RT @front_ukrainian: ❗️🇺🇦Ukrainian troops have begun using a swarm of drones controlled by an artificial intelligence system against 🇷🇺Russ…",
+            "author_id": "1497890047139454977",
+            "possibly_sensitive": false,
+            "conversation_id": "1962984178833928424",
+            "public_metrics": {
+                "retweet_count": 77,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1962971799005888532"
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1962984162660696496"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GaryMarcus",
+                        "id": "232294292"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 12,
+                        "end": 35,
+                        "url": "https://t.co/6YqUmBvbCZ",
+                        "expanded_url": "https://www.pewresearch.org/internet/2025/04/03/how-the-us-public-and-ai-experts-view-artificial-intelligence/",
+                        "display_url": "pewresearch.org/internet/2025/…",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1960750523537350661/dAJPO7t8?format=png&name=orig",
+                                "width": 1200,
+                                "height": 628
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1960750523537350661/dAJPO7t8?format=png&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "How the U.S. Public and AI Experts View Artificial Intelligence",
+                        "description": "These groups are far apart in their enthusiasm and predictions for AI, but both want more personal control and worry about too little regulation.",
+                        "unwound_url": "https://www.pewresearch.org/internet/2025/04/03/how-the-us-public-and-ai-experts-view-artificial-intelligence/"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 168,
+                        "end": 175,
+                        "probability": 0.4091,
+                        "type": "Other",
+                        "normalized_text": "Deepfake"
+                    }
+                ]
+            },
+            "id": "1962984162660696496",
+            "created_at": "2025-09-02T21:01:09.000Z",
+            "text": "@GaryMarcus https://t.co/6YqUmBvbCZ\nA survey found that both, whether experts or the public, women among them are more concerned about safety.\nThis might be related to Deepfake and protecting children?",
+            "author_id": "1745858698696867842",
+            "possibly_sensitive": false,
+            "conversation_id": "1962953726647533781",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1962953726647533781"
+                }
+            ],
+            "in_reply_to_user_id": "232294292",
+            "lang": "en"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1962984154464956708"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "front_ukrainian",
+                        "id": "1581923931409289217"
+                    }
+                ]
+            },
+            "id": "1962984154464956708",
+            "created_at": "2025-09-02T21:01:07.000Z",
+            "text": "RT @front_ukrainian: ❗️🇺🇦Ukrainian troops have begun using a swarm of drones controlled by an artificial intelligence system against 🇷🇺Russ…",
+            "author_id": "163690266",
+            "possibly_sensitive": false,
+            "conversation_id": "1962984154464956708",
+            "public_metrics": {
+                "retweet_count": 77,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1962971799005888532"
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1962984152850137505"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "front_ukrainian",
+                        "id": "1581923931409289217"
+                    }
+                ]
+            },
+            "id": "1962984152850137505",
+            "created_at": "2025-09-02T21:01:07.000Z",
+            "text": "RT @front_ukrainian: ❗️🇺🇦Ukrainian troops have begun using a swarm of drones controlled by an artificial intelligence system against 🇷🇺Russ…",
+            "author_id": "261708927",
+            "possibly_sensitive": false,
+            "conversation_id": "1962984152850137505",
+            "public_metrics": {
+                "retweet_count": 77,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1962971799005888532"
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1962984073636515988"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "townhallcom",
+                        "id": "28614262"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 24,
+                        "end": 28,
+                        "probability": 0.3056,
+                        "type": "Other",
+                        "normalized_text": "Doocy"
+                    },
+                    {
+                        "start": 57,
+                        "end": 61,
+                        "probability": 0.8818,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ]
+            },
+            "id": "1962984073636515988",
+            "created_at": "2025-09-02T21:00:48.000Z",
+            "text": "RT @townhallcom: 🚨Peter Doocy GETS UP and show President Trump viral video of what appears to be objects being thrown from windows at the W…",
+            "author_id": "144760047",
+            "possibly_sensitive": false,
+            "conversation_id": "1962984073636515988",
+            "public_metrics": {
+                "retweet_count": 12,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1962959763970339122"
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1962984047291908285"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 176,
+                        "end": 184,
+                        "username": "gaib_ai",
+                        "id": "1805656710360842246"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 64,
+                        "end": 65,
+                        "probability": 0.7394,
+                        "type": "Organization",
+                        "normalized_text": "AI"
+                    },
+                    {
+                        "start": 79,
+                        "end": 82,
+                        "probability": 0.4819,
+                        "type": "Organization",
+                        "normalized_text": "GAIB"
+                    }
+                ]
+            },
+            "id": "1962984047291908285",
+            "created_at": "2025-09-02T21:00:42.000Z",
+            "text": "In an era where tech giants plan to spend up to $320 billion on AI technology, GAIB is building an economic layer that bridges these massive investments with on chain markets.\n@gaib_ai is a unique blend of compute, artificial intelligence, and decentralized finance.",
+            "author_id": "1544610765633724417",
+            "possibly_sensitive": false,
+            "conversation_id": "1962984047291908285",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 3
+            },
+            "lang": "en"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1962984037703942601"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "LauraLoomer",
+                        "id": "537709549"
+                    },
+                    {
+                        "start": 13,
+                        "end": 20,
+                        "username": "yashar",
+                        "id": "11744152"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 68,
+                        "end": 76,
+                        "probability": 0.9699,
+                        "type": "Person",
+                        "normalized_text": "Wes Moore"
+                    },
+                    {
+                        "start": 114,
+                        "end": 124,
+                        "probability": 0.9693,
+                        "type": "Person",
+                        "normalized_text": "Cory Booker"
+                    },
+                    {
+                        "start": 145,
+                        "end": 157,
+                        "probability": 0.9575,
+                        "type": "Person",
+                        "normalized_text": "Kamala Harris"
+                    }
+                ]
+            },
+            "id": "1962984037703942601",
+            "created_at": "2025-09-02T21:00:39.000Z",
+            "text": "@LauraLoomer @yashar Is any Democrat running for POTUS authentic ? \nWes Moore has his StolenValor Medal of Honor \nCory Booker has his fake wife \nKamala Harris has her artificial intelligence",
+            "author_id": "1211004877947592709",
+            "possibly_sensitive": false,
+            "conversation_id": "1962964991755124956",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1962972412661596298"
+                }
+            ],
+            "in_reply_to_user_id": "537709549",
+            "lang": "en"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1962984012219367933"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "Kevin_Craine",
+                        "id": "124312008"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 19,
+                        "end": 27,
+                        "tag": "podcast"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 42,
+                        "end": 54,
+                        "probability": 0.8277,
+                        "type": "Person",
+                        "normalized_text": "Trond Undheim"
+                    },
+                    {
+                        "start": 63,
+                        "end": 76,
+                        "probability": 0.9061,
+                        "type": "Other",
+                        "normalized_text": "Augmented Lean"
+                    },
+                    {
+                        "start": 80,
+                        "end": 84,
+                        "probability": 0.5553,
+                        "type": "Person",
+                        "normalized_text": "Trond"
+                    },
+                    {
+                        "start": 110,
+                        "end": 129,
+                        "probability": 0.5938,
+                        "type": "Other",
+                        "normalized_text": "MIT Startup Exchange"
+                    }
+                ]
+            },
+            "id": "1962984012219367933",
+            "created_at": "2025-09-02T21:00:33.000Z",
+            "text": "RT @Kevin_Craine: [#podcast] I speak with Trond Undheim about \"Augmented Lean.\" Trond is a former director of MIT Startup Exchange and a MI…",
+            "author_id": "124312008",
+            "possibly_sensitive": false,
+            "conversation_id": "1962984012219367933",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1727809380832444464"
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1962983994074788083"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "front_ukrainian",
+                        "id": "1581923931409289217"
+                    }
+                ]
+            },
+            "id": "1962983994074788083",
+            "created_at": "2025-09-02T21:00:29.000Z",
+            "text": "RT @front_ukrainian: ❗️🇺🇦Ukrainian troops have begun using a swarm of drones controlled by an artificial intelligence system against 🇷🇺Russ…",
+            "author_id": "1644401797790933003",
+            "possibly_sensitive": false,
+            "conversation_id": "1962983994074788083",
+            "public_metrics": {
+                "retweet_count": 77,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1962971799005888532"
+                }
+            ],
+            "lang": "en"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1962983939867295988"
+            ],
+            "id": "1962983939867295988",
+            "created_at": "2025-09-02T21:00:16.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 203,
+                        "end": 226,
+                        "url": "https://t.co/1fVJMW2VzV",
+                        "expanded_url": "https://bit.ly/3JC7Rn5",
+                        "display_url": "bit.ly/3JC7Rn5",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1962983982804426752/k6MGClK9?format=png&name=orig",
+                                "width": 986,
+                                "height": 555
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1962983982804426752/k6MGClK9?format=png&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "LIVE: North Carolina Gov. Stein holds 1st NC Strong Update, showcasing new initiatives",
+                        "description": "At 1:30 p.m. on Sept. 2, North Carolina Gov. Josh Stein will hold the first NC Strong Update.",
+                        "unwound_url": "https://wlos.com/news/local/north-carolina-gov-stein-holding-1st-nc-strong-update-showcasing-new-initiatives-josh-expand-opportunities-livestream-facebook-twitter-youtube-albemarle-building-hurricane-tropical-storm-helene-recovery-efforts"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "probability": 0.5668,
+                        "type": "Place",
+                        "normalized_text": "North Carolina"
+                    },
+                    {
+                        "start": 24,
+                        "end": 33,
+                        "probability": 0.9588,
+                        "type": "Person",
+                        "normalized_text": "Josh Stein"
+                    }
+                ]
+            },
+            "text": "North Carolina Governor Josh Stein launched his first NC Strong Update on Tuesday, Sept. 2, using the new press briefing series to spotlight economic development, education, and artificial intelligence. https://t.co/1fVJMW2VzV",
+            "author_id": "32496789",
+            "possibly_sensitive": false,
+            "conversation_id": "1962983939867295988",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 16
+            },
+            "lang": "en"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "description": "I follow/support Ukraine and NAFO of course! 🇸🇪🇺🇦\nDM only if necessary. I will definitely leave this platform when russia is defeated. \nSoon I hope🙏🏻",
+                "public_metrics": {
+                    "followers_count": 1714,
+                    "following_count": 2502,
+                    "tweet_count": 246804,
+                    "listed_count": 2,
+                    "like_count": 300352,
+                    "media_count": 65
+                },
+                "created_at": "2022-02-27T11:03:40.000Z",
+                "verified": false,
+                "username": "pia_westerlund",
+                "location": "Home sweet home",
+                "name": "Pomomo",
+                "id": "1497890047139454977",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1497890171584397320/YHL-NxFR_normal.png"
+            },
+            {
+                "description": "如有需要，可以使用中文與我聯絡。\nIf necessary, contact me in English.\n日本語でコミュニケーションをとるときは、機械翻訳しか使えません。\n\nhttps://t.co/l4fwKAHv1k\nhttps://t.co/eFyVUB0v5Z",
+                "public_metrics": {
+                    "followers_count": 74,
+                    "following_count": 46,
+                    "tweet_count": 1209,
+                    "listed_count": 0,
+                    "like_count": 10199,
+                    "media_count": 26
+                },
+                "created_at": "2024-01-12T17:22:21.000Z",
+                "verified": false,
+                "username": "ExplodeMeow102",
+                "location": "Hong Kong",
+                "name": "ExplodeMeow",
+                "id": "1745858698696867842",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1747220012346359808/QdYbHVg4_normal.jpg"
+            },
+            {
+                "description": "Soixante huitard tendance Coluche, globaliste woke",
+                "public_metrics": {
+                    "followers_count": 4607,
+                    "following_count": 7499,
+                    "tweet_count": 495889,
+                    "listed_count": 98,
+                    "like_count": 278856,
+                    "media_count": 632
+                },
+                "created_at": "2010-07-07T01:39:33.000Z",
+                "verified": false,
+                "username": "Jbs10twit",
+                "location": "Chartres, France",
+                "name": "Jean-B. de Saussure",
+                "id": "163690266",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1906913273/leipzig_normal.jpg"
+            },
+            {
+                "description": "Contre l'Ecologie politique. Contre l'Islam politique . Contre l'Apologie politique. Pour le reste et surtout, bien sur, pour @davidlisnard",
+                "public_metrics": {
+                    "followers_count": 1008,
+                    "following_count": 289,
+                    "tweet_count": 66263,
+                    "listed_count": 20,
+                    "like_count": 44476,
+                    "media_count": 278
+                },
+                "created_at": "2011-03-06T14:44:49.000Z",
+                "verified": false,
+                "username": "ophardy",
+                "name": "Olivier Hardy",
+                "id": "261708927",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1874386086/portrait_normal.jpg"
+            },
+            {
+                "description": "Trump Vance 2024 🇺🇸America first city girl living in the country but nothing good 🤷‍♀️ #MAGA #Conservative NO DM!!",
+                "public_metrics": {
+                    "followers_count": 1191,
+                    "following_count": 396,
+                    "tweet_count": 1877,
+                    "listed_count": 0,
+                    "like_count": 2788,
+                    "media_count": 57
+                },
+                "created_at": "2010-05-17T06:41:51.000Z",
+                "verified": false,
+                "username": "lina852030",
+                "location": "U.S.A",
+                "name": "Lina🇺🇸",
+                "id": "144760047",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1861576512283262976/uPLhVpf2_normal.jpg"
+            },
+            {
+                "description": "web 3",
+                "public_metrics": {
+                    "followers_count": 462,
+                    "following_count": 1779,
+                    "tweet_count": 3509,
+                    "listed_count": 0,
+                    "like_count": 18558,
+                    "media_count": 117
+                },
+                "created_at": "2022-07-06T09:15:14.000Z",
+                "verified": false,
+                "username": "rockzybee",
+                "name": "Rockzy bee add",
+                "id": "1544610765633724417",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1928502262994706432/PYn3CFsd_normal.jpg"
+            },
+            {
+                "description": "Punk rock political satirist\nsane and insane are negotiable\nreality is not",
+                "public_metrics": {
+                    "followers_count": 744,
+                    "following_count": 1062,
+                    "tweet_count": 29505,
+                    "listed_count": 2,
+                    "like_count": 4000,
+                    "media_count": 733
+                },
+                "created_at": "2019-12-28T19:24:16.000Z",
+                "verified": false,
+                "username": "ChrisOn50570948",
+                "location": "NYC ",
+                "name": "DIMEBAG_5150",
+                "id": "1211004877947592709",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1848352024586326016/tlTYlVD7_normal.jpg"
+            },
+            {
+                "description": "Kevin Craine - Business and technology journalist, writer and producer - Named #1 ECM influencer to follow on Twitter",
+                "public_metrics": {
+                    "followers_count": 3593,
+                    "following_count": 2117,
+                    "tweet_count": 98221,
+                    "listed_count": 1630,
+                    "like_count": 5625,
+                    "media_count": 22307
+                },
+                "created_at": "2010-03-19T00:19:35.000Z",
+                "verified": false,
+                "username": "Kevin_Craine",
+                "location": "Portland Oregon",
+                "name": "Kevin Craine",
+                "id": "124312008",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1603089223552487425/Z2Hiq80G_normal.jpg"
+            },
+            {
+                "description": "🧪Science🖌️Art🪄Magic\n(+ 💥bonks)\n🖕ICE\n🖕Pedo King\n🖕Putin\n🖕Bibi\n🖕Hamas\n🖕Khamenei\n🖕MBS\n🖕Modi\n🖕Xi\n🖕Erdogan\n🖕Orban\n🖕Fico\n🖕Bukele\n🖕Maduro\n🖕MDC\n🖕Elon",
+                "public_metrics": {
+                    "followers_count": 1238,
+                    "following_count": 3223,
+                    "tweet_count": 29067,
+                    "listed_count": 0,
+                    "like_count": 43682,
+                    "media_count": 476
+                },
+                "created_at": "2023-04-07T18:08:49.000Z",
+                "verified": false,
+                "username": "SciArtMagic",
+                "location": "Langley, Virginia",
+                "name": "🧪🖌️🪄 🇺🇸🇺🇦 Слава Україні",
+                "id": "1644401797790933003",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1933108862233497600/Atdg7wE2_normal.jpg"
+            },
+            {
+                "description": "News 13 WNC’s News Leader serving Asheville Hendersonville Rutherfordton Waynesville Weaverville Brevard and all points in between. https://t.co/KSTOQOrfN8",
+                "public_metrics": {
+                    "followers_count": 105885,
+                    "following_count": 723,
+                    "tweet_count": 406340,
+                    "listed_count": 852,
+                    "like_count": 5615,
+                    "media_count": 102486
+                },
+                "created_at": "2009-04-17T17:49:45.000Z",
+                "verified": false,
+                "username": "WLOS_13",
+                "location": "Asheville, NC",
+                "name": "WLOS",
+                "id": "32496789",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1864386785301647360/GoQKx-_U_normal.jpg"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1962984178833928424",
+        "oldest_id": "1962983939867295988",
+        "result_count": 10,
+        "next_token": "b26v89c19zqg8o3fsce61yxg55hslo3rknchcf70ubgxp"
+    }
+}

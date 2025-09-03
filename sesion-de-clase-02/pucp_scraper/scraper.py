@@ -17,7 +17,7 @@ driver = webdriver.Chrome(options=options)
 
 def scrape_item(item_url):
     try:
-        r = requests.get(item_url, timeout=10)
+        r = requests.head(item_url, timeout=10)
         r.raise_for_status()
     except requests.exceptions.RequestException as e:
         print("HTTP error:", e)
