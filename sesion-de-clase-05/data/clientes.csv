@@ -1,0 +1,26 @@
+id_cliente,nombre,email,ciudad,pais,fecha_registro
+1,Ana Martínez,ana.m@email.com,Madrid,España,2024-05-10
+2,Carlos Sánchez,carlos.s@email.com,Ciudad de México,México,2024-05-11
+3,María López,maria.l@email.com,Bogotá,Colombia,2024-05-12
+4,Jorge García,jorge.g@email.com,Buenos Aires,Argentina,2024-05-13
+5,Valentina Pérez,valentina.p@email.com,Santiago,Chile,2024-05-14
+6,Luis Hernández,luis.h@email.com,Lima,Perú,2024-05-15
+7,Sofía Ramírez,sofia.r@email.com,Quito,Ecuador,2024-05-16
+8,Ricardo Torres,ricardo.t@email.com,Caracas,Venezuela,2024-05-17
+9,Valeria Castro,valeria.c@email.com,Montevideo,Uruguay,2024-05-18
+10,Diego Vargas,diego.v@email.com,Asunción,Paraguay,2024-05-19
+11,Lucía Gómez,lucia.g@email.com,Barcelona,España,2024-05-20
+12,Andrés Díaz,andres.d@email.com,Cancún,México,2024-05-21
+13,Camila Ruiz,camila.r@email.com,Medellín,Colombia,2024-05-22
+14,Sebastián Herrera,sebastian.h@email.com,Rosario,Argentina,2024-05-23
+15,Isabella Morales,isabella.m@email.com,Valparaíso,Chile,2024-05-24
+16,Mateo Rojas,mateo.r@email.com,Cusco,Perú,2024-05-25
+17,Gabriela Soto,gabriela.s@email.com,Guayaquil,Ecuador,2024-05-26
+18,Daniela Silva,daniela.s@email.com,Maracaibo,Venezuela,2024-05-27
+19,Felipe Acosta,felipe.a@email.com,Punta del Este,Uruguay,2024-05-28
+20,Mariana León,mariana.l@email.com,Encarnación,Paraguay,2024-05-29
+21,Pedro Castillo,pedro.c@email.com,Valencia,España,2024-05-30
+22,Laura Benavides,laura.b@email.com,Guadalajara,México,2024-05-31
+23,Diego Castro,diego.c@email.com,Cali,Colombia,2024-06-01
+24,Sofía Romero,sofia.r@email.com,Córdoba,Argentina,2024-06-02
+25,Javier Fuentes,javier.f@email.com,Viña del Mar,Chile,2024-06-03
